@@ -1,0 +1,11 @@
+# Sample graph: N=8 courses, M=9 conflicts, R=3 halls per slot
+8 9 3
+1 2
+1 3
+2 3
+2 4
+3 5
+4 5
+4 6
+5 7
+7 8

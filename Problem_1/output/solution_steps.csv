@@ -1,0 +1,58 @@
+step,row,col,cell,event,keys_held
+0,1,1,S,Start,
+1,2,1,.,,
+2,3,1,b,Picked up key b,b
+3,4,1,.,,b
+4,5,1,B,Opened door B with key b,b
+5,6,1,a,Picked up key a,ab
+6,7,1,.,,ab
+7,8,1,.,,ab
+8,9,1,.,,ab
+9,9,2,c,Picked up key c,abc
+10,9,3,A,Opened door A with key a,abc
+11,9,4,.,,abc
+12,9,5,.,,abc
+13,9,6,.,,abc
+14,9,7,C,Opened door C with key c,abc
+15,9,8,.,,abc
+16,9,9,.,,abc
+17,10,9,.,,abc
+18,11,9,.,,abc
+19,11,10,.,,abc
+20,11,11,.,,abc
+21,11,12,.,,abc
+22,11,13,.,,abc
+23,11,14,.,,abc
+24,11,15,.,,abc
+25,10,15,.,,abc
+26,9,15,.,,abc
+27,8,15,.,,abc
+28,7,15,.,,abc
+29,7,14,.,,abc
+30,7,13,.,,abc
+31,6,13,.,,abc
+32,5,13,.,,abc
+33,4,13,.,,abc
+34,3,13,.,,abc
+35,3,14,.,,abc
+36,3,15,.,,abc
+37,4,15,.,,abc
+38,5,15,d,Picked up key d,abcd
+39,4,15,.,,abcd
+40,3,15,.,,abcd
+41,3,14,.,,abcd
+42,3,13,.,,abcd
+43,4,13,.,,abcd
+44,5,13,.,,abcd
+45,6,13,.,,abcd
+46,7,13,.,,abcd
+47,7,14,.,,abcd
+48,7,15,.,,abcd
+49,8,15,.,,abcd
+50,9,15,.,,abcd
+51,10,15,.,,abcd
+52,11,15,.,,abcd
+53,12,15,.,,abcd
+54,13,15,.,,abcd
+55,14,15,D,Opened door D with key d,abcd
+56,15,15,E,Reached the exit,abcd
