@@ -11,10 +11,10 @@ This repository contains our solutions to **all four problem statements** of the
 
 | # | Problem | Core idea | Language | Folder |
 |---|---|---|---|---|
-| 1 | Maze with Keys and Doors | BFS over `(row, col, key-set)` states, compared with A\*, DFS and a deliberately wrong naive BFS | Python | [`problem1_maze_keys_doors/`](problem1_maze_keys_doors/) |
-| 2 | Closest Pair of Points | Brute-Force vs Divide-and-Conquer, with running-time comparison | [Java / Python] | [`problem2_closest_pair/`](problem2_closest_pair/) |
-| 3 | Budget Traveller with Coupons | Cheapest route with at most K stops and C halving coupons | [Java / Python] | [`problem3_budget_traveller/`](problem3_budget_traveller/) |
-| 4 | Exam Timetable Scheduling | Capacity-constrained graph colouring: Welsh-Powell, DSatur and exact Branch-and-Bound | Python | [`problem4_exam_timetable/`](problem4_exam_timetable/) |
+| 1 | Maze with Keys and Doors | BFS over `(row, col, key-set)` states, compared with A\*, DFS and a deliberately wrong naive BFS | Python | [`Problem_1/`](Problem_1/) |
+| 2 | Closest Pair of Points | Brute-Force vs Divide-and-Conquer, with running-time comparison | [Java / Python] | [`Problem_2/`](Problem_2/) |
+| 3 | Budget Traveller with Coupons | Cheapest route with at most K stops and C halving coupons | [Java / Python] | [`Problem_3/`](Problem_3/) |
+| 4 | Exam Timetable Scheduling | Capacity-constrained graph colouring: Welsh-Powell, DSatur and exact Branch-and-Bound | Python | [`Problem_4/`](Problem_4/) |
 
 Each folder has its own `README.md` with setup, input/output formats, algorithms and tests.
 
@@ -54,15 +54,15 @@ Assign N courses to the fewest time slots with no conflicting courses together a
 ```
 .
 ├── README.md                      <- this file
-├── problem1_maze_keys_doors/
+├── Problem_1/
 │   ├── main.py  maze_solver.py  visualizer.py  analysis.py
 │   ├── ANALYSIS.md  README.md  requirements.txt
 │   ├── samples/  tests/
-├── problem2_closest_pair/
+├── Problem_2/
 │   └── ...
-├── problem3_budget_traveller/
+├── Problem_3/
 │   └── ...
-└── problem4_exam_timetable/
+└── Problem_4/
     ├── main.py  graph_input.py  scheduler.py  visualization.py  tests.py
     ├── sample_graph.txt  README.md  requirements.txt
     └── docs/
@@ -76,7 +76,7 @@ Clone the repository and open the folder of the problem you want to run:
 
 ```bash
 git clone <your-repo-url>
-cd <repo-name>/problem4_exam_timetable      # or any other problem folder
+cd <repo-name>/Problem_4      # or any other problem folder
 python -m venv .venv
 # Windows:      .venv\Scripts\activate
 # macOS/Linux:  source .venv/bin/activate
