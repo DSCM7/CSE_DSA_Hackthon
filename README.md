@@ -139,4 +139,8 @@ Python 3.10 or newer is recommended. For Java solutions, use JDK [version] and f
 
 ## Acknowledgements
 
+<<<<<<< HEAD
 Thanks to the Department of Computer Science and Engineering, CMRIT, Bangalore, for organising the hackathon.
+=======
+Thanks to the Department of Computer Science and Engineering, CMRIT, Bangalore, for organising the hackathon.
+>>>>>>> 93720bfc4ddba6ba656fdbb07bddfebd13e1cea1
