@@ -128,19 +128,15 @@ Python 3.10 or newer is recommended. For Java solutions, use JDK [version] and f
 
 ## Team
 
-| Name | USN | Contribution |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+| Name | USN |
+|---|---|
+| Dhriti Setty C M | 1CR24CS058 |
+| Divya Teja B | 1CR24CS062 |
+| Bhavana | 1CR24CS044 |
+| Bhagyashree | 1CR24CS042 |
 
 ---
 
 ## Acknowledgements
 
-<<<<<<< HEAD
 Thanks to the Department of Computer Science and Engineering, CMRIT, Bangalore, for organising the hackathon.
-=======
-Thanks to the Department of Computer Science and Engineering, CMRIT, Bangalore, for organising the hackathon.
->>>>>>> 93720bfc4ddba6ba656fdbb07bddfebd13e1cea1
